@@ -1,8 +1,10 @@
-![image](https://github.com/user-attachments/assets/5f190a4d-9225-485c-bfa4-e3f45dbb5f01)
+![Screenshot 2024-08-11 221743](https://github.com/user-attachments/assets/1e447654-29da-45ad-85dd-f52fc90e7fb2)
+
 
 Output Screen 
 
-![image](https://github.com/user-attachments/assets/f353125b-2dd2-40ef-aad7-bd54c3c7d554)
+![Screenshot 2024-08-11 221845](https://github.com/user-attachments/assets/786baee9-ac30-48f1-8b3f-8d69b59236bb)
+
 
 Logcat 
 
